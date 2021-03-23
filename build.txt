@@ -1,0 +1,3 @@
+displayName = Gid's Multiplayer Map
+author = Gideon Tong
+version = 0.1
